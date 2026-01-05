@@ -3,7 +3,7 @@ layout: page
 ---
 
 <div id="describe-text">
-Here are some student-run <a href="https://www.agq-cdt.org/">AGQ</a> seminars that I have taken part in.</p>
+<p>Here are some student-run <a href="https://www.agq-cdt.org/">AGQ</a> seminars that I have taken part in.</p>
 </div>
 
 <h3 id="projects"><a href="https://www.agq-cdt.org/training/cohort-reading-groups/geometric-invariant-theory/">Geometric Invariant Theory</a> - Winter 2024, run by <a href="https://shingtaklam1324.github.io/">Shing Tak Lam</a>.</h3>
