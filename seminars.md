@@ -11,3 +11,5 @@ layout: page
 <h3 id="projects"><a href="https://www.agq-cdt.org/training/cohort-reading-groups/stacks/">Stacks</a> - Spring 2025, run by me.</h3>
 
 <h3 id="projects"><a href="https://www.agq-cdt.org/training/cohort-reading-groups/enumerative-geometry/">Enumerative Geometry</a> - Winter 2026, run by Noah Dizep.</h3>
+
+<h3 id="projects"><a href="https://www.agq-cdt.org/training/cohort-reading-groups/geometric-representation-theory/">Geometric Representation Theory</a> - Winter 2026, run by Diana Bergerová.</h3>
