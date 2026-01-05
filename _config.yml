@@ -4,7 +4,7 @@ description: >
   My personal page
 
 # baseurl: "" the subpath of your site, e.g. /page
-url: "https://eroth264.github.io/" # the base hostname & protocol for your site
+url: "https://emanuel-roth.github.io/" # the base hostname & protocol for your site
 
 author:
   fullname: Emanuel Roth
