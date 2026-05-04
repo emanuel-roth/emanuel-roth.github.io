@@ -16,7 +16,7 @@ I am funded by the <a href="https://www.agq-cdt.org/">EPSRC Centre for Doctoral 
 </div>
 
 <div id="describe-text">
-	<p>My masters thesis was on canonical reductions of principal bundles, which is now a <a href="https://arxiv.org/abs/2511.17371v1">preprint</a> with Florent Schaffhauser. It explains how Harder-Narasimhan filtrations of vector bundles can be generalized to principal bundles, and works out some  examples (symplectic and special orthogonal versions).</p>
+	<p>My masters thesis was on canonical reductions of principal bundles, which is now a <a href="https://arxiv.org/abs/2511.17371">preprint</a> with Florent Schaffhauser. It explains how Harder-Narasimhan filtrations of vector bundles can be generalized to principal bundles, and works out some  examples (symplectic and special orthogonal versions).</p>
 </div>
 
 <div id="describe-text">
@@ -27,7 +27,7 @@ I am funded by the <a href="https://www.agq-cdt.org/">EPSRC Centre for Doctoral 
 
 
 <div id="describe-text">
-	<p>Harder-Narasimhan filtrations of decorated vector bundles (2025), on <a href="https://arxiv.org/abs/2511.17371v1">arxiv</a>, with <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>. </p>
+	<p>Harder-Narasimhan filtrations of decorated vector bundles (2025), on <a href="https://arxiv.org/abs/2511.17371">arxiv</a>, with <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>. </p>
 </div>
 
 <div id="describe-text">
