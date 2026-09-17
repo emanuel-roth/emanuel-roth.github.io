@@ -6,6 +6,8 @@ layout: page
 <p>Here is some teaching that I have done.</p>
 </div>
 
+<h3 id="projects">Honours Complex Variables, Summer Semester 2026, Edinburgh</h3>
+
 <h3 id="projects">Further Complex Variables, Winter Semester 2025, Edinburgh</h3>
 
 <h3 id="projects">General Topology, Winter Semester 2025, Edinburgh</h3>
@@ -24,6 +26,6 @@ layout: page
 
 <h3 id="projects"> Linear Algebra 1, Winter Semester 2021, Heidelberg</h3>
 
-<h3 id="projects"> Preiliminary Courses, Winter Semester 2021, Heidelberg</h3>
+<h3 id="projects"> Preliminary Courses, Winter Semester 2021, Heidelberg</h3>
 
-<h3 id="projects"> Preiliminary Courses, Winter Semester 2020, Heidelberg</h3>
+<h3 id="projects"> Preliminary Courses, Winter Semester 2020, Heidelberg</h3>

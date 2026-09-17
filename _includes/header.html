@@ -1,13 +1,31 @@
 <header class="header">
-<div class="navigation">
-<a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
-<ul class="menu">
-<li class="menu__entry"><a href="{{ '/' | prepend: site.baseurl }}">Home</a></li>
-<li class="menu__entry"><a href="{{ '/workshops.html' | prepend: site.baseurl }}">Workshops</a></li>
-<li class="menu__entry"><a href="{{ '/seminars.html' | prepend: site.baseurl }}">Seminars</a></li>
-<li class="menu__entry"><a href="{{ '/teaching.html' | prepend: site.baseurl }}">Teaching</a></li>
-<li class="menu__entry"><a href="{{ '/assets/CV.pdf' | prepend: site.baseurl }}">CV</a></li>
+  <div class="navigation">
 
-</ul>
-</div>
+    <a href="{{ '/' | prepend: site.baseurl }}" class="logo">
+      {{ site.title }}
+    </a>
+
+    <ul class="menu">
+      <li class="menu__entry">
+        <a href="{{ '/' | prepend: site.baseurl }}">Home</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="{{ '/workshops.html' | prepend: site.baseurl }}">Workshops</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="{{ '/seminars.html' | prepend: site.baseurl }}">Seminars</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="{{ '/teaching.html' | prepend: site.baseurl }}">Teaching</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="#" id="theme-toggle">System Theme</a>
+      </li>
+    </ul>
+
+  </div>
 </header>

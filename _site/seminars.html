@@ -21,18 +21,37 @@
 <body>
 <div class="wrapper">
 <header class="header">
-<div class="navigation">
-<a href="/" class="logo">Emanuel Roth</a>
-<ul class="menu">
-<li class="menu__entry"><a href="/">Home</a></li>
-<li class="menu__entry"><a href="{{ '/workshops.html' | prepend: site.baseurl }}">Workshops</a></li>
-<li class="menu__entry"><a href="/seminars.html">Seminars</a></li>
-<li class="menu__entry"><a href="/teaching.html">Teaching</a></li>
-<li class="menu__entry"><a href="/assets/CV.pdf">CV</a></li>
+  <div class="navigation">
 
-</ul>
-</div>
+    <a href="/" class="logo">
+      Emanuel Roth
+    </a>
+
+    <ul class="menu">
+      <li class="menu__entry">
+        <a href="/">Home</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="/workshops.html">Workshops</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="/seminars.html">Seminars</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="/teaching.html">Teaching</a>
+      </li>
+
+      <li class="menu__entry">
+        <a href="#" id="theme-toggle">System Theme</a>
+      </li>
+    </ul>
+
+  </div>
 </header>
+<main class="page-content">
 <h1 class="page-title">
 <div class="page-title__text"></div>
 <div class="page-title__subtitle"></div>
@@ -50,8 +69,14 @@
 
 <h3 id="projects"><a href="https://www.agq-cdt.org/training/cohort-reading-groups/geometric-representation-theory/">Geometric Representation Theory</a> - Winter 2026, run by Diana Bergerová.</h3>
 
+
+
+
+
+</main>
 </div>
 <script src="/assets/vendor/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
+<script src="/assets/js/theme.js"></script>
 </body>
 </html>

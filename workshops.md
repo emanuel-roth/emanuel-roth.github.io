@@ -12,7 +12,7 @@ layout: page
 
 <h3 id="projects"><a href="https://www.ukagnetwork.org/past-activities/lancaster-december-2024">UKAG</a> in Lancaster, UK, 2024.</h3>
 
-<h3 id="projects">Research visit to University of Heidelberg, Germany, 2024.</h3>
+<h3 id="projects">Research visit to University of Heidelberg, Germany, 2024 (visiting Florent Schaffhauser).</h3>
 
 <h3 id="projects"><a href="https://apeonnieto.wixsite.com/stratificationsconf">Stratifications of Higgs bundle moduli spaces</a> in Santiago, Spain, 2025.</h3>
 
@@ -28,4 +28,16 @@ layout: page
 
 <h3 id="projects"><a href="https://sites.google.com/view/gears-seminar/home">GEARS</a> in Glasgow, UK, 2025 (I gave a talk on complementary polyhedra).</h3>
 
-<h3 id="projects"><a href="https://icms.ac.uk/activities/workshop/geometry-higher-structures-and-physics-icms-workshop/">ICMS Geometry, Higher Structures, Physics</a> in Edinburgh, UK.</h3>
+<h3 id="projects"><a href="https://icms.ac.uk/activities/workshop/geometry-higher-structures-and-physics-icms-workshop/">ICMS Geometry, Higher Structures, Physics</a> in Edinburgh, UK, 2025.</h3>
+
+<h3 id="projects"><a href="https://cow.alggeo.xyz/cow2025">COW</a> and <a href="https://calfseminar.weebly.com/">CALF</a> in London, UK, 2026.</h3>
+
+<h3 id="projects"><a href="https://calfseminar.weebly.com/">CALF</a> in Nottingham, UK, 2026 (I gave a talk on complementary polyhedra).</h3>
+
+<h3 id="projects"><a href="https://eventos.ucm.es/150772/detail/2nd-maphyag-workshop.html">2MaPhyAG</a> in Madrid, Spain, 2026 (I gave a <a href="/assets/poster.pdf">poster</a>).</h3>
+
+<h3 id="projects"><a href="https://www.claymath.org/events/trends-in-differential-and-complex-geometry-a-celebration-of-nigel-hitchins-80th-birthday-2/">Hitchin's 80th birthday conference</a> in Oxford, UK, 2026.</h3>
+
+<h3 id="projects"><a href="https://sites.google.com/view/ugphms/home/">Unifying Geometric Perspectives on Hitchin's Moduli Space</a> in Lausanne, Switzerland, 2026.</h3>
+
+<h3 id="projects"><a href="https://www.icmat.es/RT/2026/HNLTT/hitchin80.php">Hitchin's 80th birthday conference</a> in Madrid, Spain, 2026.</h3>
