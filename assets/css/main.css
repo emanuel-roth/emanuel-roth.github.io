@@ -12,13 +12,14 @@
   --text-muted: #777777;
   --border: #eeeeee;
 
-  /* Links */
   --link: #174a7e;
   --link-hover: #0b3158;
 
   --code-bg: #f5f5f5;
   --selection-bg: #d9d9d9;
   --accent: #16a085;
+
+  background-color: #ffffff;
 }
 
 /* Follow system preference */
@@ -72,6 +73,10 @@ html[data-theme="dark"] {
 
   --code-bg: #1d1d1d;
   --selection-bg: #444444;
+}
+
+html {
+  background-color: var(--bg);
 }
 
   a {
