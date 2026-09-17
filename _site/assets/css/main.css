@@ -22,6 +22,11 @@
   background-color: #ffffff;
 }
 
+html {
+  min-height: 100vh;
+  background-color: var(--bg);
+}
+
 /* Follow system preference */
 @media (prefers-color-scheme: dark) {
   :root {
@@ -75,9 +80,19 @@ html[data-theme="dark"] {
   --selection-bg: #444444;
 }
 
-html {
-  background-color: var(--bg);
-}
+  body {
+    min-height: 100vh;
+    margin: 0;
+
+    font-family: 'Lato', sans-serif;
+    font-size: 100%;
+
+    background-color: var(--bg);
+    color: var(--text);
+
+    transition: background-color 0.45s ease;
+  }
+
 
   a {
     color: var(--link);
@@ -91,14 +106,6 @@ html {
 
   code {
     background: var(--code-bg);
-    transition: background-color 0.45s ease;
-  }
-
-  body {
-    font-family: 'Lato', sans-serif;
-    font-size: 100%;
-    background: var(--bg);
-    color: var(--text);
     transition: background-color 0.45s ease;
   }
 
