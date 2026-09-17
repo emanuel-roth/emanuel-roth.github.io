@@ -20,7 +20,9 @@
   --accent: #16a085;
 }
 
-html {
+html,
+body
+{
   min-height: 100vh;
   background-color: var(--bg);
 }
