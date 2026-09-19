@@ -19,14 +19,14 @@ sitemap:
 <h3 id="projects">Preprints and papers</h3>
 
 <div id="describe-text">
-	<p><a href="https://arxiv.org/abs/2511.17371">Harder-Narasimhan filtrations of decorated vector bundles</a> (2025), on arxiv, with <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>. </p>
 	<p><a href="https://arxiv.org/abs/2609.17231">Jordan-Hölder theory for complementary polyhedra and moduli of parahoric Higgs torsors</a> (2026), on arxiv. </p>
+	<p><a href="https://arxiv.org/abs/2511.17371">Harder-Narasimhan filtrations of decorated vector bundles</a> (2025), on arxiv, with <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>. </p>
 </div>
 
 <h3 id="projects">Other material</h3>
 <div id="describe-text">
-	<p><a href="https://quivercombinatoricstools.github.io/">QuiverCombinatoricsTools</a>, a SageMath package for computing symplectic leaves of quiver varieties, joint with Tudor Caba and Mia Lam.</p>
 	<p><a href="/assets/poster.pdf">Poster</a> on my Jordan-Hölder theory paper.</p>
+	<p><a href="https://quivercombinatoricstools.github.io/">QuiverCombinatoricsTools</a>, a SageMath package for computing symplectic leaves of quiver varieties, joint with Tudor Caba and Mia Lam.</p>
 	<p><a href="/assets/group-project.pdf">Nonabelian Hodge theory</a>, a report joint with <a href="https://shingtaklam1324.github.io/">Shing Tak Lam</a>.</p>
 	<p><a href="/assets/bachelor.pdf">Bachelor thesis</a> on the Mitchell embedding theorem.</p>
 </div>
