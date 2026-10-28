@@ -13,7 +13,7 @@ sitemap:
 </div>
 
 <div id="describe-text">
-	<p>My email is E [dot] Roth2 [at] ed.ac.uk, but I also use E [dot] Roth [at] sms.ed.ac.uk.</p>
+	<p>My email is ERoth2 [at] ed [dot] ac [dot] uk, but I also use E [dot] Roth [at] sms [dot] ed [dot] ac [dot] uk.</p>
 </div>
 
 <h3 id="projects">Preprints and papers</h3>
