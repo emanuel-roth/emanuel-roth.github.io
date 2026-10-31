@@ -1,6 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<meta name="color-scheme" content="light dark">
+<style>
+  /* Critical background colours, painted before the external stylesheets load. */
+  html { background-color: #ffffff; color-scheme: light; }
+  @media (prefers-color-scheme: dark) {
+    html { background-color: #121212; color-scheme: dark; }
+  }
+  html[data-theme="light"] { background-color: #ffffff; color-scheme: light; }
+  html[data-theme="dark"] { background-color: #121212; color-scheme: dark; }
+</style>
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  try {
+    var theme = localStorage.getItem("theme");
+    if (theme === "light" || theme === "dark") {
+      document.documentElement.setAttribute("data-theme", theme);
+    }
+  } catch (e) {}
+</script>
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -8,7 +27,7 @@
 <meta name="description" content="My personal page
 ">
 
-<link rel="canonical" href="/teaching.html">`
+<link rel="canonical" href="/teaching.html">
 <link rel="icon" type="image/jpeg" href="/assets/img/pudhina.jpg"/>
 <link rel="stylesheet" href="/assets/vendor/normalize-css/normalize.css">
 <link rel="stylesheet" href="/assets/css/main.css">
@@ -16,7 +35,7 @@
 <link rel="stylesheet" href="/assets/vendor/highlight/styles/agate.css">
 
 <link rel="stylesheet" href="/assets/vendor/font-awesome/css/font-awesome.css">
-<link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+
 </head>
 <body>
 <div class="wrapper">
@@ -33,7 +52,7 @@
       </li>
 
       <li class="menu__entry">
-        <a href="/workshops.html">Workshops</a>
+        <a href="/travel.html">Travel</a>
       </li>
 
       <li class="menu__entry">
@@ -46,6 +65,16 @@
 
       <li class="menu__entry">
         <a href="#" id="theme-toggle">System Theme</a>
+        <script>
+          // Set the label before first paint so it doesn't flicker on page load.
+          (function () {
+            var theme = document.documentElement.getAttribute("data-theme");
+            var labels = { light: "Light Theme", dark: "Dark Theme" };
+            if (labels[theme]) {
+              document.getElementById("theme-toggle").textContent = labels[theme];
+            }
+          })();
+        </script>
       </li>
     </ul>
 
