@@ -32,5 +32,28 @@
 </div>
 {% include externals/scripting.html %}
 <script src="{{ '/assets/js/theme.js' | prepend: site.baseurl }}"></script>
+<script>
+  // Keep the same scroll offset when switching between the menu tabs.
+  (function () {
+    var key = "tab-scroll";
+    document.querySelectorAll(".header a:not(#theme-toggle)").forEach(function (link) {
+      link.addEventListener("click", function () {
+        try { sessionStorage.setItem(key, String(window.scrollY)); } catch (e) {}
+      });
+    });
+    var y;
+    try {
+      y = parseInt(sessionStorage.getItem(key), 10);
+      sessionStorage.removeItem(key);
+    } catch (e) {}
+    // Leave anchor links and back/forward/reload to the browser's own handling.
+    var nav = performance.getEntriesByType && performance.getEntriesByType("navigation")[0];
+    if (!y || location.hash || (nav && nav.type !== "navigate")) return;
+    // scrollTo clamps to the page height, so a shorter page just stops at its bottom.
+    window.scrollTo(0, y);
+    // Re-apply after images load, in case they changed the page height.
+    window.addEventListener("load", function () { window.scrollTo(0, y); });
+  })();
+</script>
 </body>
 </html>

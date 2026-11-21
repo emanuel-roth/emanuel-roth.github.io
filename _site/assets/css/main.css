@@ -23,7 +23,6 @@
 html,
 body
 {
-  min-height: 100vh;
   background-color: var(--bg);
   transition: background-color 0.45s ease;
 }
@@ -82,7 +81,6 @@ html[data-theme="dark"] {
 }
 
   body {
-    min-height: 100vh;
     margin: 0;
 
     font-family: 'Lato', sans-serif;
