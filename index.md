@@ -19,8 +19,8 @@ sitemap:
 <h3 id="projects">Preprints and papers</h3>
 
 <div id="describe-text">
-	<p><a href="https://arxiv.org/abs/2609.17231">Jordan-Hölder theory for complementary polyhedra and moduli of parahoric Higgs torsors</a> (2026), on arxiv. </p>
-	<p><a href="https://arxiv.org/abs/2511.17371">Harder-Narasimhan filtrations of decorated vector bundles</a> (2025), on arxiv, with <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>. </p>
+	<p><a href="https://arxiv.org/abs/2609.17231">Jordan-Hölder theory for complementary polyhedra and moduli of parahoric Higgs torsors</a> (2026), on arXiv. </p>
+	<p><a href="https://arxiv.org/abs/2511.17371">Harder-Narasimhan filtrations of decorated vector bundles</a> (2025), on arXiv, with <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>. </p>
 </div>
 
 <h3 id="projects">Other material</h3>
