@@ -36,7 +36,7 @@ layout: page
 
 <h3 id="projects"><a href="https://apeonnieto.wixsite.com/stratificationsconf">Stratifications of Higgs bundle moduli spaces</a> in Santiago, Spain, 2025.</h3>
 
-<h3 id="projects">Research visit to University of Heidelberg, Germany, 2024 (visiting Florent Schaffhauser).</h3>
+<h3 id="projects">Research visit to University of Heidelberg, Germany, 2024 (visiting <a href="https://matematiflo.github.io/">Florent Schaffhauser</a>).</h3>
 
 <h3 id="projects"><a href="https://www.ukagnetwork.org/past-activities/lancaster-december-2024">UKAG</a> in Lancaster, UK, 2024.</h3>
 
