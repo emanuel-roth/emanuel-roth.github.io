@@ -9,7 +9,7 @@ sitemap:
 </div>
 
 <div id="describe-text">
-	<p>My masters thesis was on canonical reductions of principal bundles, which is now a <a href="https://arxiv.org/abs/2511.17371">preprint</a> with Florent Schaffhauser. My bachelors thesis was on <a href="/assets/bachelor.pdf">the Mitchell embedding theorem</a>.</p>
+	<p>My masters thesis was on canonical reductions of principal bundles, which is now a <a href="https://arxiv.org/abs/2511.17371">preprint</a> with Florent Schaffhauser. My bachelors thesis was on the <a href="/assets/bachelor.pdf">Mitchell embedding theorem</a>.</p>
 </div>
 
 <div id="describe-text">
