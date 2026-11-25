@@ -33,5 +33,5 @@ sitemap:
 	<p><a href="https://quivercombinatoricstools.github.io/">QuiverCombinatoricsTools</a>, a SageMath package for computing symplectic leaves of quiver varieties, joint with Tudor Caba and <a href="https://ml975.user.srcf.net/">Mia Lam</a>.</p>
 	<p><a href="https://emanuel-roth.github.io/Cpoly/">CPoly</a>, a SageMath package for computing complementary polyhedra.</p>
 	<p><a href="/assets/group-project.pdf">Nonabelian Hodge theory</a>, a report joint with <a href="https://shingtaklam1324.github.io/">Shing Tak Lam</a>.</p>
-	<p><a href="/assets/bachelor.pdf">Bachelor thesis</a> on the Mitchell embedding theorem.</p>
+	<p>Bachelor thesis on the <a href="/assets/bachelor.pdf">Mitchell embedding theorem</a>.</p>
 </div>
